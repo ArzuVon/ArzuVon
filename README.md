@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -16,8 +16,7 @@
 - :telescope: I Work as a Software Engineer contributing to frontend and backend for building web applications.
 
 ✨ Currently enrolled in an Advance Software Development course, completion December 2022 ✨ 
-<div id="header" align="center">
-  <img src="" width="200"/>
+<div id="body" align="center">
 </div>
 
 <!-- - :seedling: Exploring AWS and Salesforce.
