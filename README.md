@@ -19,7 +19,7 @@
 
 ### 💪 Need Motivation ?
 
-[ 🚀 You Can Do It !](https://vonarzu.github.io/DOnt-QuIT/ "DOnt-QuIT")
+[ 🚀(DO)nt Qu(IT), you got this](https://vonarzu.github.io/DOnt-QuIT/ "DOnt-QuIT")
 
 
 ### :hammer_and_wrench: Languages and Tools :
