@@ -9,7 +9,7 @@
   <a href="https://twitter.com/vonarzu">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://instagram.com/blackwhoamanintech">
+  <a href="https://www.instagram.com/blackwhoamanintech/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   </div>
