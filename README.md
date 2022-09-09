@@ -17,9 +17,10 @@
 - :telescope: I work as a Software Engineer contributing to frontend and backend for building web applications.
 - ✨ Currently enrolled in an Advance Software Development course, completion December 2022 ✨ 
 
+
 ### 💪 Need Motivation ?
 
-[ 🚀(DO)nt Qu(IT), you got this](https://vonarzu.github.io/DOnt-QuIT/ "DOnt-QuIT")
+#### [ 🚀(DO)nt Qu(IT), you got this](https://vonarzu.github.io/DOnt-QuIT/ "DOnt-QuIT")
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -37,6 +38,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
 </div>
+
+##### 🎵 [Music used to code, Instrumentals ](https://www.youtube.com/watch?v=M5QY2_8704o)
+##### 🎶 [Music used to code, Vibes](https://www.youtube.com/watch?v=dkw4aXpH8SY)
+##### 🎷 [Music used to code, Jazz](https://www.youtube.com/watch?v=5IAg6XY-0rI&list=PLKi0isRRbrVPLQClOnpRgFZerC_UwRYEr)
+##### 🔊 [Music used to code, R&B Vibes](https://www.youtube.com/watch?v=Qx8S8haQP2U)
+##### 🎧 [Music used to code, Hip Hop Vibes](https://www.youtube.com/watch?v=zbF60gFyDZM)
 
 <!-- - :seedling: Exploring AWS and Salesforce.
 - 👯 I’m looking to collaborate on ...
