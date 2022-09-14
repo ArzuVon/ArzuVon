@@ -15,7 +15,7 @@
   </div>
 
 ## Hi there 👋 I'm Von
-###  😄 Pronouns: She/Her/Papi
+###  😄 Pronouns: She/Her
 
 - ✨ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  :telescope: I work as a Software Engineer contributing to frontend and backend for building web applications.
