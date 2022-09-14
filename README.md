@@ -15,12 +15,10 @@
   </div>
 
 ## Hi there 👋 I'm Von
-###  😄 Pronouns: She/Her
+###  😄 Pronouns: She/Her/Papi
 
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I work as a Software Engineer contributing to frontend and backend for building web applications.
-- ✨ Currently enrolled in an Advance Software Development course, completion December 2022 ✨ 
-
+- ✨ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-  :telescope: I work as a Software Engineer contributing to frontend and backend for building web applications.
 
 ### 💪 Need Motivation ?
 
