@@ -8,6 +8,10 @@
   <a href="https://www.instagram.com/blackwhoamanintech/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+    <a href="https://cdpn.io/VonArzu/debug/yLBxavz?editors=0110">
+    <img src="https://img.shields.io/badge/Vons Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Vons Portfolio Badge"/>
+  </a>
+   
   </div>
 
 ## Hi there 👋 I'm Von
@@ -16,11 +20,14 @@
 - ✨ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  :telescope: I work as a Software Engineer contributing to frontend and backend for building web applications.
 
+---  
+  
 ### 💪 Need Motivation ?
 
 #### [ 🚀(DO)nt Qu(IT), you got this](https://vonarzu.github.io/DOnt-QuIT/ "DOnt-QuIT")
 
-
+---
+  
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -37,12 +44,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
 </div>
 
+---  
+  
 ##### 🎵 [Music used to code, Instrumentals ](https://www.youtube.com/watch?v=M5QY2_8704o)
 ##### 🎶 [Music used to code, Vibes](https://www.youtube.com/watch?v=dkw4aXpH8SY)
 ##### 🎷 [Music used to code, Jazz](https://www.youtube.com/watch?v=5IAg6XY-0rI&list=PLKi0isRRbrVPLQClOnpRgFZerC_UwRYEr)
 ##### 🔊 [Music used to code, R&B Vibes](https://www.youtube.com/watch?v=Qx8S8haQP2U)
 ##### 🎧 [Music used to code, Hip Hop Vibes](https://www.youtube.com/watch?v=zbF60gFyDZM)
 
+ --- 
+  
+# 🤟Von's Portfolio](https://cdpn.io/VonArzu/debug/yLBxavz?editors=0110")
 <!-- - :seedling: Exploring AWS and Salesforce.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
