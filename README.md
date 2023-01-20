@@ -14,7 +14,7 @@
    
   </div>
 
-## Hi there 👋 I'm Von
+# Hi there 👋 I'm Von
 ###  😄 Pronouns: She/Her
 
 - ✨ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -22,13 +22,13 @@
 
 ---  
   
-### 💪 Need Motivation ?
+## 💪 Need Motivation ?
 
-#### [ 🚀(DO)nt Qu(IT), you got this](https://vonarzu.github.io/DOnt-QuIT/ "DOnt-QuIT")
+### [ 🚀(DO)nt Qu(IT), you got this](https://vonarzu.github.io/DOnt-QuIT/ "DOnt-QuIT")
 
 ---
   
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -45,7 +45,7 @@
 </div>
 
 ---  
-  
+## 🎧 Lets Vibe Out 
 ##### 🎵 [Music used to code, Instrumentals ](https://www.youtube.com/watch?v=M5QY2_8704o)
 ##### 🎶 [Music used to code, Vibes](https://www.youtube.com/watch?v=dkw4aXpH8SY)
 ##### 🎷 [Music used to code, Jazz](https://www.youtube.com/watch?v=5IAg6XY-0rI&list=PLKi0isRRbrVPLQClOnpRgFZerC_UwRYEr)
