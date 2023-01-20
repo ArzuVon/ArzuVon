@@ -54,7 +54,7 @@
 
  --- 
   
-# 🤟Von's Portfolio](https://cdpn.io/VonArzu/debug/yLBxavz?editors=0110")
+# 🤟[Von's Portfolio](https://cdpn.io/VonArzu/debug/yLBxavz?editors=0110")
 <!-- - :seedling: Exploring AWS and Salesforce.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
