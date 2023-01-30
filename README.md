@@ -11,7 +11,6 @@
     <a href="https://cdpn.io/VonArzu/debug/yLBxavz?editors=0110">
     <img src="https://img.shields.io/badge/Vons Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Vons Portfolio Badge"/>
   </a>
-   
   </div>
 
 # Hi there 👋 I'm Von
@@ -19,6 +18,8 @@
 
 - ✨ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  :telescope: I work as a Software Engineer contributing to frontend and backend for building web applications.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzuvon&layout=compact&langs_count=8)](https://github.com/arzuvon/github-readme-stats)
 
 ---  
   
