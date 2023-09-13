@@ -17,7 +17,7 @@
 ###  😄 Pronouns: She/Her
 
 - ✨ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  :telescope: I work as a Software Engineer contributing to frontend and backend for building web applications.
+-  :telescope: I work as a Software Engineer contributing to frontend and backend
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzuvon&layout=compact&langs_count=8)](https://github.com/arzuvon/github-readme-stats)
 
