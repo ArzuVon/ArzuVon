@@ -57,6 +57,7 @@
  --- 
   
 # 🤟[Von's Portfolio](https://cdpn.io/VonArzu/debug/yLBxavz?editors=0110")
+## 💬 [Helpful Notes](https://arzuvon.github.io./reading-notes)
 <!-- - :seedling: Exploring AWS and Salesforce.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
