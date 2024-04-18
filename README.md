@@ -15,8 +15,15 @@
 # Hi there 👋 I'm Von
 ###  😄 Pronouns: She/Her
 
-- ✨ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  :telescope: I work as a Software Engineer contributing to frontend and backend
+- ✨ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-  :telescope: I work remotely as a DevOps Engineer for a fortune 500 company.
+- ⚓️ Started: Human GPS on an Aircraft Carrier
+- 🖥️ 2014 Fav: Built my 1st computer
+- 🪞 2018 Fav: Built a smart mirror
+- 👞 2018: Software Engineer in office
+- 💻 2018: Girls Who Code Instructor
+- 💼 2018 - 2020: Founder of Augmented Reality(AR) startup
+- 🖥️ 2021 - 2024: Software Developer remotely
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzuvon&layout=compact&langs_count=8)](https://github.com/arzuvon/github-readme-stats)
 
@@ -28,7 +35,7 @@
 
 ---
   
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools (Glimpse 😉):
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -41,9 +48,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="K8s" alt="K8s" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="AzureDevOps" alt="AzureDevOps" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-plain-wordmark.svg" title="RaspberryPI" alt="RaspberryPI" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 </div>
 
 ---  
