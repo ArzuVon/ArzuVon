@@ -17,6 +17,8 @@
 
 - ✨ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  :telescope: I work remotely as a DevOps Engineer for a fortune 500 company.
+
+  ### 🏆 Technical Wins
 - ⚓️ Started: Human GPS on an Aircraft Carrier
 - 🖥️ 2014 Fav: Built my 1st computer
 - 🪞 2018 Fav: Built a smart mirror
