@@ -26,6 +26,8 @@
 - 💻 2018: Girls Who Code Instructor
 - 💼 2018 - 2020: Founder of Augmented Reality(AR) startup
 - 🖥️ 2021 - 2024: Software Developer remotely
+- 🖥️ 2024 - Current: DevOps Engineer remotely
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzuvon&layout=compact&langs_count=8)](https://github.com/arzuvon/github-readme-stats)
 
