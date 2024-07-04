@@ -27,6 +27,7 @@
 - 📚 2018: Mini-MBA
 - 💼 2018 - 2020: Founder of Augmented Reality(AR) startup
 - 🎓 2019: Bachelor's Information Technology
+- 🦠 2020: Coding Bootcamp
 - 🎓 2021: Master's Computer Information Science
 - 🖥️ 2021 - 2024: Software Developer remotely
 - 💻 2022: Advanced Coding Bootcamp Refresher
