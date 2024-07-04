@@ -19,13 +19,17 @@
 -  :telescope: I work remotely as a DevOps Engineer for a fortune 500 company.
 
   ### 🏆 Technical Wins
-- ⚓️ Started: Human GPS on an Aircraft Carrier
+- ⚓️ 2011: Human GPS on an Aircraft Carrier
 - 🖥️ 2014 Fav: Built my 1st computer
 - 🪞 2018 Fav: Built a smart mirror
 - 👞 2018: Software Engineer in office
 - 💻 2018: Girls Who Code Instructor
+- 📚 2018: Mini-MBA
 - 💼 2018 - 2020: Founder of Augmented Reality(AR) startup
+- 🎓 2019: Bachelor's Information Technology
+- 🎓 2021: Master's Computer Information Science
 - 🖥️ 2021 - 2024: Software Developer remotely
+- 💻 2023: Advanced Coding Bootcamp Refresher
 - 🖥️ 2024 - Current: DevOps Engineer remotely
 
 
