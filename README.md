@@ -68,6 +68,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 </div>
 
+<img width="569" alt="Screenshot 2024-08-05 at 6 05 34 PM" src="https://github.com/user-attachments/assets/2914240e-c360-498e-8809-0f2c1eb0aa11">
+
 ---  
 ## 🎧 Lets Vibe Out 
 ##### 🎵 [Music used to code, Instrumentals ](https://www.youtube.com/watch?v=M5QY2_8704o)
