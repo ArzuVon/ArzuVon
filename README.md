@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/blackwhoamanintech/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-    <a href="https://cdpn.io/VonArzu/debug/yLBxavz?editors=0110">
+    <a href="https://www.arzuorg.com">
     <img src="https://img.shields.io/badge/Vons Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Vons Portfolio Badge"/>
   </div>
 
