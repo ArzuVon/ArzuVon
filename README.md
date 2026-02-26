@@ -15,8 +15,8 @@
 # Hi there 👋 I'm Von
 ###  😄 Pronouns: She/Her
 
-- ✨ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  :telescope: I work remotely as a DevOps Engineer for a fortune 500 company.
+- ✨ Information Technology and Business Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-  :telescope: I like working remotely
 
   ### 🏆 Technical Wins
 - ⚓️ 2011: Human GPS on an Aircraft Carrier
@@ -31,7 +31,9 @@
 - 🎓 2021: Master's Computer Information Science
 - 🖥️ 2021 - 2024: Software Developer remotely
 - 💻 2022: Advanced Coding Bootcamp Refresher
-- 🖥️ 2024 - Current: DevOps Engineer remotely
+- 🖥️ 2024 - 2025: DevOps Engineer remotely
+- 🖥️ 2025 - Current: Information Technology and Business Professional remotely
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzuvon&layout=compact&langs_count=8)](https://github.com/arzuvon/github-readme-stats)
@@ -80,7 +82,7 @@
 
  --- 
   
-# 🤟[Von's Portfolio](https://cdpn.io/VonArzu/debug/yLBxavz?editors=0110")
+# 🤟[Von's Portfolio](https://www.arzuorg.com")
 ## 💬 [Helpful Notes](https://arzuvon.github.io./reading-notes)
 <!-- - :seedling: Exploring AWS and Salesforce.
 - 👯 I’m looking to collaborate on ...
